@@ -20,7 +20,7 @@ En mode 2 joueurs le premier joueur choisi le nombre d'essaie (minimum superieur
 Le jeu se poursuivra pendant un nombre de tours défini au début du match et à la fin le gagnant sera annoncé.
 
 ## Comment executer le jeux.
-telecharger le fichier plus_moins.
+Telecharger le fichier plus_moins.
 Pour executer aller sur votre terminal et utilliser la command:
 ```
 ./plus_moins
