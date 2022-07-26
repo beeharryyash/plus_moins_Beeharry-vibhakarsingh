@@ -4,7 +4,7 @@ Plus moins est un jeu ou le joueur doit essaie de deviner le nombre que l'ordina
 generer. Le seul aide qui est disponible aux joueur est "Plus" ou "Moins" apres chaque
 essaie.
 
-## Niveau
+## Niveau.
 le jeux consiste de 3 different mode:
 ```
 mode facile       - essaie  illimiter
